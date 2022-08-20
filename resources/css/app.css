@@ -1,0 +1,12 @@
+body{
+    background: white;
+}
+.shop-image{
+    width: 160px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 160px;
+}
+
